@@ -100,4 +100,4 @@ row_name = 'company_name_cleaned'
 # update_database(database_connection(database_name), csv_file_name)
 
 # 6.Function call
-close_connection(database_name)
+# close_connection(database_name)
